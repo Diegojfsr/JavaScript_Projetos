@@ -4,7 +4,8 @@
 Cronograma para Aprender JavaScript com Projetos. Os projetos abaixo estão organizados na sequência que você deve estudar, do básico ao avançado.
 -->
 
-![](https://github.com/Diegojfsr/JavaScript_Projetos/tree/main/Imagens)
+![](https://github.com/Diegojfsr/JavaScript_Projetos/blob/main/Imagens/Capa_Projetos_JavaScript.jpg)
+
 
 <div align="center"> 
 <p float="center">
