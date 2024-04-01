@@ -10,9 +10,9 @@
 
   
   <p float="center">
-    <a href="https://github.com/Diegojfsr/JavaScript_Projects_Beginners/tree/main"> <img src="https://github.com/Diegojfsr/JavaScript_Projetos/blob/main/Imagens/JavaScript1.jpg" width="250"/></a>
+    <a href="https:"> <img src="https://github.com/Diegojfsr/JavaScript_Projetos/blob/main/Imagens/JavaScript1.jpg" width="250"/></a>
     <a href="https://github.com/Diegojfsr/JavaScript_Projects_Beginners/tree/main"> <img src="https://github.com/Diegojfsr/JavaScript_Projetos/blob/main/Imagens/JavaScript2.jpg" width="250"/></a>
-    <a href="https://github.com/Diegojfsr/JavaScript_Projects_Beginners/tree/main"> <img src="https://github.com/Diegojfsr/JavaScript_Projetos/blob/main/Imagens/JavaScript3.jpg" width="250"/></a>
+    <a href="https:"> <img src="https://github.com/Diegojfsr/JavaScript_Projetos/blob/main/Imagens/JavaScript3.jpg" width="250"/></a>
   </p>
 
 
